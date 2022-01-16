@@ -1,2 +1,2 @@
 # Counter_App_Using_Javascript
-![image](https://user-images.githubusercontent.com/24952359/149662491-375b1ec5-ae0e-4cd0-8023-e5b0932d1e4c.png)
+![image](https://user-images.githubusercontent.com/24952359/149662522-03081b0a-52c1-467f-a7df-7974d19dab0c.png)
